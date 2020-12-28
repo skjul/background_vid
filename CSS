@@ -1,14 +1,17 @@
 
  /* site title */
-body.slug-store .sitetitle.txt .sitetitle-txt-inner span{
+/*body.slug-market*/
+.sitetitle.txt .sitetitle-txt-inner span{
 	color: white;
 }
  
-body.slug-store .laynav-primary a{
+/*body.slug-market*/
+.laynav-primary a{
 	color: white;
 }
 
-	body.slug-store .fixed-bg-video{
+	/*body.slug-market*/
+	.fixed-bg-video{
 display: block;
 }
 .fixed-bg-video{
